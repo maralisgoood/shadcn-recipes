@@ -1,0 +1,404 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Spaghetti Bolognese",
+      "image": "https://source.unsplash.com/800x600/?spaghetti",
+      "time": 30,
+      "description": "Classic Italian pasta dish with rich meat sauce.",
+      "vegan": false
+    },
+    {
+      "id": "2",
+      "title": "Vegetarian Stir-Fry",
+      "image": "https://source.unsplash.com/800x600/?stir-fry",
+      "time": 20,
+      "description": "Colorful mix of fresh vegetables in a savory sauce.",
+      "vegan": true
+    },
+    {
+      "id": "3",
+      "title": "Grilled Chicken Salad",
+      "image": "https://source.unsplash.com/800x600/?chicken-salad",
+      "time": 25,
+      "description": "Healthy salad with grilled chicken and fresh greens.",
+      "vegan": false
+    },
+    {
+      "id": "4",
+      "title": "Vegan Pizza",
+      "image": "https://source.unsplash.com/800x600/?vegan-pizza",
+      "time": 15,
+      "description": "Delicious pizza with plant-based toppings.",
+      "vegan": true
+    },
+    {
+      "id": "5",
+      "title": "Chocolate Chip Cookies",
+      "image": "https://source.unsplash.com/800x600/?cookies",
+      "time": 12,
+      "description": "Homemade cookies with gooey chocolate chips.",
+      "vegan": false
+    },
+    {
+      "id": "6",
+      "title": "Tomato Basil Pasta",
+      "image": "https://source.unsplash.com/800x600/?tomato-pasta",
+      "time": 18,
+      "description": "Simple and flavorful pasta with tomato and basil.",
+      "vegan": true
+    },
+    {
+      "id": "7",
+      "title": "Mango Smoothie Bowl",
+      "image": "https://source.unsplash.com/800x600/?smoothie-bowl",
+      "time": 10,
+      "description": "Refreshing smoothie bowl with mango and tropical fruits.",
+      "vegan": true
+    },
+    {
+      "id": "8",
+      "title": "BBQ Pulled Pork Sandwich",
+      "image": "https://source.unsplash.com/800x600/?bbq-sandwich",
+      "time": 40,
+      "description": "Savory pulled pork sandwich with barbecue sauce.",
+      "vegan": false
+    },
+    {
+      "id": "9",
+      "title": "Quinoa Salad",
+      "image": "https://source.unsplash.com/800x600/?quinoa-salad",
+      "time": 15,
+      "description": "Healthy and protein-packed salad with quinoa.",
+      "vegan": true
+    },
+    {
+      "id": "10",
+      "title": "Shrimp Scampi",
+      "image": "https://source.unsplash.com/800x600/?shrimp-scampi",
+      "time": 25,
+      "description": "Delicious shrimp cooked in a garlic butter sauce.",
+      "vegan": false
+    },
+    {
+      "id": "11",
+      "title": "Veggie Wrap",
+      "image": "https://source.unsplash.com/800x600/?veggie-wrap",
+      "time": 20,
+      "description": "A flavorful wrap filled with assorted vegetables.",
+      "vegan": true
+    },
+    {
+      "id": "12",
+      "title": "Chicken Caesar Salad",
+      "image": "https://source.unsplash.com/800x600/?caesar-salad",
+      "time": 30,
+      "description": "Classic Caesar salad with grilled chicken.",
+      "vegan": false
+    },
+    {
+      "id": "13",
+      "title": "Blueberry Pancakes",
+      "image": "https://source.unsplash.com/800x600/?blueberry-pancakes",
+      "time": 15,
+      "description": "Fluffy pancakes with fresh blueberries.",
+      "vegan": false
+    },
+    {
+      "id": "14",
+      "title": "Chickpea Curry",
+      "image": "https://source.unsplash.com/800x600/?chickpea-curry",
+      "time": 25,
+      "description": "Hearty curry with chickpeas and aromatic spices.",
+      "vegan": true
+    },
+    {
+      "id": "15",
+      "title": "Caprese Salad",
+      "image": "https://source.unsplash.com/800x600/?caprese-salad",
+      "time": 12,
+      "description": "Refreshing salad with tomatoes, mozzarella, and basil.",
+      "vegan": true
+    },
+    {
+      "id": "16",
+      "title": "Beef Tacos",
+      "image": "https://source.unsplash.com/800x600/?beef-tacos",
+      "time": 20,
+      "description": "Tasty beef tacos with all the fixings.",
+      "vegan": false
+    },
+    {
+      "id": "17",
+      "title": "Pumpkin Soup",
+      "image": "https://source.unsplash.com/800x600/?pumpkin-soup",
+      "time": 30,
+      "description": "Warm and comforting pumpkin soup.",
+      "vegan": true
+    },
+    {
+      "id": "18",
+      "title": "Lemon Garlic Shrimp Pasta",
+      "image": "https://source.unsplash.com/800x600/?shrimp-pasta",
+      "time": 25,
+      "description": "Zesty pasta with succulent lemon garlic shrimp.",
+      "vegan": false
+    },
+    {
+      "id": "19",
+      "title": "Avocado Toast",
+      "image": "https://source.unsplash.com/800x600/?avocado-toast",
+      "time": 10,
+      "description": "A simple and nutritious avocado toast.",
+      "vegan": true
+    },
+    {
+      "id": "20",
+      "title": "Mushroom Risotto",
+      "image": "https://source.unsplash.com/800x600/?mushroom-risotto",
+      "time": 35,
+      "description": "Creamy and flavorful mushroom risotto.",
+      "vegan": false
+    },
+    {
+      "id": "21",
+      "title": "Eggplant Parmesan",
+      "image": "https://source.unsplash.com/800x600/?eggplant-parmesan",
+      "time": 40,
+      "description": "Baked eggplant slices layered with marinara and cheese.",
+      "vegan": false
+    },
+    {
+      "id": "22",
+      "title": "Black Bean Burritos",
+      "image": "https://source.unsplash.com/800x600/?black-bean-burritos",
+      "time": 25,
+      "description": "Burritos filled with black beans, rice, and veggies.",
+      "vegan": true
+    },
+    {
+      "id": "23",
+      "title": "Cauliflower Fried Rice",
+      "image": "https://source.unsplash.com/800x600/?cauliflower-fried-rice",
+      "time": 20,
+      "description": "Healthy and low-carb fried rice with cauliflower.",
+      "vegan": true
+    },
+    {
+      "id": "24",
+      "title": "Salmon Teriyaki",
+      "image": "https://source.unsplash.com/800x600/?salmon-teriyaki",
+      "time": 30,
+      "description": "Grilled salmon glazed with sweet teriyaki sauce.",
+      "vegan": false
+    },
+    {
+      "id": "25",
+      "title": "Pesto Pasta",
+      "image": "https://source.unsplash.com/800x600/?pesto-pasta",
+      "time": 15,
+      "description": "Pasta tossed in a flavorful basil pesto sauce.",
+      "vegan": true
+    },
+    {
+      "id": "26",
+      "title": "Tofu Stir-Fry",
+      "image": "https://source.unsplash.com/800x600/?tofu-stir-fry",
+      "time": 25,
+      "description": "Stir-fried tofu with assorted vegetables in a savory sauce.",
+      "vegan": true
+    },
+    {
+      "id": "27",
+      "title": "Hawaiian Chicken Skewers",
+      "image": "https://source.unsplash.com/800x600/?chicken-skewers",
+      "time": 30,
+      "description": "Grilled chicken skewers with a tropical pineapple glaze.",
+      "vegan": false
+    },
+    {
+      "id": "28",
+      "title": "Mango Salsa Fish Tacos",
+      "image": "https://source.unsplash.com/800x600/?fish-tacos",
+      "time": 20,
+      "description": "Fish tacos topped with refreshing mango salsa.",
+      "vegan": false
+    },
+    {
+      "id": "29",
+      "title": "Greek Salad",
+      "image": "https://source.unsplash.com/800x600/?greek-salad",
+      "time": 15,
+      "description": "Traditional Greek salad with feta, olives, and tomatoes.",
+      "vegan": true
+    },
+    {
+      "id": "30",
+      "title": "Sweet Potato Curry",
+      "image": "https://source.unsplash.com/800x600/?sweet-potato-curry",
+      "time": 30,
+      "description": "Flavorful curry with sweet potatoes and aromatic spices.",
+      "vegan": true
+    },
+    {
+      "id": "31",
+      "title": "Cranberry Walnut Salad",
+      "image": "https://source.unsplash.com/800x600/?cranberry-salad",
+      "time": 15,
+      "description": "Fresh salad with cranberries, walnuts, and mixed greens.",
+      "vegan": true
+    },
+    {
+      "id": "32",
+      "title": "Chicken Alfredo Pasta",
+      "image": "https://source.unsplash.com/800x600/?alfredo-pasta",
+      "time": 25,
+      "description": "Creamy Alfredo pasta with tender chicken pieces.",
+      "vegan": false
+    },
+    {
+      "id": "33",
+      "title": "Vegan Chocolate Cake",
+      "image": "https://source.unsplash.com/800x600/?vegan-chocolate-cake",
+      "time": 40,
+      "description": "Decadent chocolate cake made without dairy or eggs.",
+      "vegan": true
+    },
+    {
+      "id": "34",
+      "title": "Shakshuka",
+      "image": "https://source.unsplash.com/800x600/?shakshuka",
+      "time": 30,
+      "description": "Poached eggs in a spicy tomato and bell pepper sauce.",
+      "vegan": false
+    },
+    {
+      "id": "35",
+      "title": "Lentil Soup",
+      "image": "https://source.unsplash.com/800x600/?lentil-soup",
+      "time": 25,
+      "description": "Hearty soup with lentils, vegetables, and spices.",
+      "vegan": true
+    },
+    {
+      "id": "36",
+      "title": "Pineapple Upside-Down Cake",
+      "image": "https://source.unsplash.com/800x600/?pineapple-cake",
+      "time": 45,
+      "description": "Classic dessert with caramelized pineapple on top.",
+      "vegan": false
+    },
+    {
+      "id": "37",
+      "title": "Sushi Rolls",
+      "image": "https://source.unsplash.com/800x600/?sushi-rolls",
+      "time": 35,
+      "description": "Homemade sushi rolls with fresh fish and veggies.",
+      "vegan": false
+    },
+    {
+      "id": "38",
+      "title": "Mango Coconut Smoothie",
+      "image": "https://source.unsplash.com/800x600/?mango-smoothie",
+      "time": 10,
+      "description": "Refreshing smoothie with mango and coconut milk.",
+      "vegan": true
+    },
+    {
+      "id": "39",
+      "title": "Chicken Quesadillas",
+      "image": "https://source.unsplash.com/800x600/?quesadillas",
+      "time": 20,
+      "description": "Cheesy chicken quesadillas with salsa and guacamole.",
+      "vegan": false
+    },
+    {
+      "id": "40",
+      "title": "Berry Parfait",
+      "image": "https://source.unsplash.com/800x600/?berry-parfait",
+      "time": 15,
+      "description": "Layers of berries, yogurt, and granola in a delightful parfait.",
+      "vegan": true
+    },
+    {
+      "id": "41",
+      "title": "Pesto Chicken Panini",
+      "image": "https://source.unsplash.com/800x600/?chicken-panini",
+      "time": 25,
+      "description": "Grilled chicken panini with basil pesto and melted cheese.",
+      "vegan": false
+    },
+    {
+      "id": "42",
+      "title": "Butternut Squash Risotto",
+      "image": "https://source.unsplash.com/800x600/?butternut-squash-risotto",
+      "time": 35,
+      "description": "Creamy risotto with roasted butternut squash.",
+      "vegan": true
+    },
+    {
+      "id": "43",
+      "title": "Pulled Jackfruit Tacos",
+      "image": "https://source.unsplash.com/800x600/?jackfruit-tacos",
+      "time": 30,
+      "description": "Vegetarian tacos with pulled jackfruit in barbecue sauce.",
+      "vegan": true
+    },
+    {
+      "id": "44",
+      "title": "Lemon Blueberry Muffins",
+      "image": "https://source.unsplash.com/800x600/?blueberry-muffins",
+      "time": 20,
+      "description": "Moist muffins with the perfect combination of lemon and blueberries.",
+      "vegan": false
+    },
+    {
+      "id": "45",
+      "title": "Stuffed Bell Peppers",
+      "image": "https://source.unsplash.com/800x600/?stuffed-peppers",
+      "time": 40,
+      "description": "Bell peppers filled with a flavorful mix of rice, beans, and veggies.",
+      "vegan": true
+    },
+    {
+      "id": "46",
+      "title": "Teriyaki Tofu Bowl",
+      "image": "https://source.unsplash.com/800x600/?tofu-bowl",
+      "time": 25,
+      "description": "Bowl with teriyaki-glazed tofu, rice, and steamed vegetables.",
+      "vegan": true
+    },
+    {
+      "id": "47",
+      "title": "Mushroom and Spinach Frittata",
+      "image": "https://source.unsplash.com/800x600/?mushroom-frittata",
+      "time": 30,
+      "description": "Fluffy frittata with mushrooms, spinach, and cheese.",
+      "vegan": false
+    },
+    {
+      "id": "48",
+      "title": "Peanut Butter Banana Smoothie",
+      "image": "https://source.unsplash.com/800x600/?peanut-butter-smoothie",
+      "time": 10,
+      "description": "Creamy smoothie with the classic combination of peanut butter and banana.",
+      "vegan": true
+    },
+    {
+      "id": "49",
+      "title": "Cabbage Rolls",
+      "image": "https://source.unsplash.com/800x600/?cabbage-rolls",
+      "time": 45,
+      "description": "Savory cabbage rolls stuffed with seasoned ground meat or lentils.",
+      "vegan": true
+    },
+    {
+      "id": "50",
+      "title": "Cinnamon Roll Pancakes",
+      "image": "https://source.unsplash.com/800x600/?cinnamon-roll-pancakes",
+      "time": 30,
+      "description": "Fluffy pancakes with swirls of cinnamon and cream cheese glaze.",
+      "vegan": false
+    }
+  ]
+}
